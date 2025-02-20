@@ -1,2 +1,16 @@
 .vscode/settings.json
 __pycache__/__init__.cpython-37.pyc
+controllers/__pycache__/__init__.cpython-37.pyc
+controllers/__pycache__/main.cpython-37.pyc
+doc/changelog.rst
+models/__pycache__/__init__.cpython-37.pyc
+models/__pycache__/back_theme_config_model.cpython-37.pyc
+models/__pycache__/export_import.cpython-37.pyc
+models/__pycache__/global_search.cpython-37.pyc
+models/__pycache__/notification_logger.cpython-37.pyc
+models/__pycache__/notifications.cpython-37.pyc
+models/__pycache__/push_notification.cpython-37.pyc
+models/__pycache__/pwa_configuration.cpython-37.pyc
+models/__pycache__/send_notification.cpython-37.pyc
+models/__pycache__/todo.cpython-37.pyc
+models/__pycache__/web_quick_menu.cpython-37.pyc
